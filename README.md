@@ -2,7 +2,7 @@
 
 ## General Guidelines
 
-If you are familiar with LaTeX typesetting, please do us a favor and write your article in LaTeX. You can share it with us through [Overleaf](https://www.overleaf.com/), Google Drive, or by emailing us the `.tex` file and any other relevant files. *Please also see our [LaTeX Guidelines]() to make the process of adding your article easier for us.*
+If you are familiar with LaTeX typesetting, please do us a favor and write your article in LaTeX. You can share it with us through [Overleaf](https://www.overleaf.com/), Google Drive, or by emailing us the `.tex` file and any other relevant files. *If you choose this option, please also see our [LaTeX Guidelines](LATEX.md) to make the process of adding your article easier for us.*
 
 You can write about anything math-related! This includes traditional mathematics subjects (including geometry, algebra, graph theory, number theory, and calculus), but can also include applied mathematics and mathematics-adjacent topics, such as computer science, math history, and physics, just to name a few.
 
