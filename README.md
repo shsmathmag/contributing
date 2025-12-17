@@ -1,4 +1,4 @@
-# Contributing to The Eagle's $\sqrt{-1}$
+# Contributing to The Eagle's √−1
 
 ## General Guidelines
 
@@ -16,4 +16,4 @@ All diagrams that you include (`.jpg`, `.png`, and any other media files) *must*
 
 ## Publication
 
-When your work is submitted, it will be published under the [Creative Commons BY-SA 4.0 International license](LICENSE). For a summary of the terms, visit the [Creative Commons website](https://creativecommons.org/licenses/by-sa/4.0/deed.en). In addition to being made publicly available on GitHub, a digital version of the magazine will also be posted on the [SHS Library's website](https://sites.google.com/sharonschools.net/hslibrary/home). Physical copies will also be printed and made available at the Sharon High School library.
+When your work is submitted, we, the Editors, will retain copyright to your article. The magazine will be published under the [Creative Commons BY-SA 4.0 International license](LICENSE). For a summary of the terms, visit the [Creative Commons website](https://creativecommons.org/licenses/by-sa/4.0/deed.en). In addition to being made publicly available on GitHub, a digital version of the magazine will also be posted on the [SHS Library's website](https://sites.google.com/sharonschools.net/hslibrary/home). Physical copies will also be printed and made available at the Sharon High School library.
