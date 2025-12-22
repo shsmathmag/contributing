@@ -14,6 +14,8 @@ When it comes to diagrams, please remember that the physical copies of the magaz
 
 All diagrams that you include (`.jpg`, `.png`, and any other media files) *must* be submitted along with your article. The submission form will include instructions for the platform you choose to submit on. Please title all such files with your last name. For example, the second diagram in Aiden Liang's article would be titled `liang_2.png`.
 
+[<kbd> <br> **Submit an Article** <br> </kbd>](https://docs.google.com/forms/d/e/1FAIpQLSeY7XcqfUxjgBxZp0vH_MmCl29wHoQta1Wflq_vLwiMyPQI6A/viewform?usp=dialog)
+
 ## Publication
 
 When your work is submitted, you retain ownership of your work. You also agree that your written work will be published under the [Creative Commons BY-NC-SA 4.0 International license](CC-BY-NC-SA-4.0) and that your code, if submitted, will be published under the [MIT license](MIT-LICENSE). 
