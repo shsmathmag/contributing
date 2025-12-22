@@ -18,6 +18,6 @@ All diagrams that you include (`.jpg`, `.png`, and any other media files) *must*
 
 ## Publication
 
-When your work is submitted, you retain ownership of your work. You also agree that your written work will be published under the [Creative Commons BY-NC-SA 4.0 International license](CC-BY-NC-SA-4.0) and that your code, if submitted, will be published under the [MIT license](MIT-LICENSE). 
+When your work is submitted, you retain ownership of your work. You also agree that your written work will be published under the [Creative Commons BY-NC-SA 4.0 International license](CC-BY-NC-SA-4.0-LICENSE) and that your code, if submitted, will be published under the [MIT license](MIT-LICENSE). 
 
 In addition to being made publicly available on GitHub, a digital version of the magazine will also be posted on the [SHS Library's website](https://sites.google.com/sharonschools.net/hslibrary/home). Physical copies will also be printed and made available at the Sharon High School library.
