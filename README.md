@@ -14,7 +14,7 @@ When it comes to diagrams, please remember that the physical copies of the magaz
 
 All diagrams that you include (`.jpg`, `.png`, and any other media files) *must* be submitted along with your article. The submission form will include instructions for the platform you choose to submit on. Please title all such files with your last name. For example, the second diagram in Aiden Liang's article would be titled `liang_2.png`.
 
-[<kbd> <br> **Submit an Article** <br> </kbd>](https://docs.google.com/forms/d/e/1FAIpQLSeY7XcqfUxjgBxZp0vH_MmCl29wHoQta1Wflq_vLwiMyPQI6A/viewform?usp=dialog)
+[<kbd> <br> **Submit an Article** <br> </kbd>](https://docs.google.com/forms/d/e/1FAIpQLSfczGz13Ap7saiaFfIvlpLMpQUKcLy1K_XC-eEgzwoASQrfGA/viewform)
 
 ## Publication
 
